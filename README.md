@@ -10,7 +10,7 @@
 ## Projects
 
 ### 1. Supermarket Sales Dashboard
-*Interactive dashboard with actions and bookmarks used for navigation across finance, product and customer views*
+*Interactive dashboard with actions and bookmarks used for navigation across finance, product and customer views.*
 ##
 ### 2. Electronic Store Dashboard
-*Created to provide decision makers a consolidated performance view of the business across different regions*
+*Created to provide decision makers a consolidated performance view of the business across different regions.*
